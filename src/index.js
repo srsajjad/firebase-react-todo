@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import App from './App'
 import firebase from 'firebase'
 
-// go to firebase console and aquire them by creating a project
+// go to firebase console and acquire them by creating a project
 var config = {
   apiKey: '',
   authDomain: '',
